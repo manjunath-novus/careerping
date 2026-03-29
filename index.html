@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CareerPing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- 🔔 Notification -->
+<div id="notification"></div>
+
+<!-- 🔷 Header -->
+<header>
+    <h1>📱 CareerPing</h1>
+    <p class="subtitle">Never Miss Your Chance</p>
+</header>
+
+
+<!-- 🎯 Filter -->
+<section class="controls">
+    <select id="filter">
+        <option value="all">All Exams</option>
+        <option value="PUC">PUC</option>
+        <option value="Degree">Degree</option>
+    </select>
+</section>
+
+<select id="categoryFilter">
+  <option value="all">All Categories</option>
+  <option value="job">Job Exams</option>
+  <option value="study">Higher Studies</option>
+</select>
+
+<!-- 🧑 User Input -->
+<section class="user-form">
+
+  <input type="number" id="age" placeholder="Enter your age">
+
+  <select id="education">
+    <option value="">Select Education</option>
+    <option value="PUC">PUC</option>
+    <option value="Degree">Degree</option>
+  </select>
+
+  <button onclick="filterExams()">🔍 Find Exams</button>
+
+</section>
+
+<!-- 📦 Results -->
+<main>
+    <div id="examList"></div>
+</main>
+
+<script src="script.js"></script>
+
+</body>
+</html>

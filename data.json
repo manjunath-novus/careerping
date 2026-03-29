@@ -1,0 +1,203 @@
+[
+  {
+    "name": "SSC CGL",
+    "category": "job",
+    "level": "Degree",
+    "start_date": "2026-03-01",
+    "deadline": "2026-04-10",
+    "age_limit": "18-32",
+    "apply_link": "https://ssc.nic.in",
+    "jobs": ["Income Tax Officer", "Assistant Section Officer"]
+  },
+  {
+    "name": "UPSC Civil Services",
+    "category": "job",
+    "level": "Degree",
+    "start_date": "2026-01-15",
+    "deadline": "2026-02-15",
+    "age_limit": "21-32",
+    "apply_link": "https://upsc.gov.in",
+    "jobs": ["IAS", "IPS", "IFS"]
+  },
+  {
+    "name": "IBPS PO",
+    "category": "job",
+    "level": "Degree",
+    "start_date": "2026-07-01",
+    "deadline": "2026-08-01",
+    "age_limit": "20-30",
+    "apply_link": "https://ibps.in",
+    "jobs": ["Bank PO"]
+  },
+  {
+    "name": "IBPS Clerk",
+    "category": "job",
+    "level": "Degree",
+    "start_date": "2026-08-01",
+    "deadline": "2026-09-01",
+    "age_limit": "20-28",
+    "apply_link": "https://ibps.in",
+    "jobs": ["Bank Clerk"]
+  },
+  {
+    "name": "RRB NTPC",
+    "category": "job",
+    "level": "PUC",
+    "start_date": "2026-05-15",
+    "deadline": "2026-06-20",
+    "age_limit": "18-30",
+    "apply_link": "https://rrbcdg.gov.in",
+    "jobs": ["Clerk", "Station Master"]
+  },
+  {
+    "name": "RRB Group D",
+    "category": "job",
+    "level": "PUC",
+    "start_date": "2026-06-10",
+    "deadline": "2026-07-10",
+    "age_limit": "18-33",
+    "apply_link": "https://rrbcdg.gov.in",
+    "jobs": ["Track Maintainer"]
+  },
+  {
+    "name": "SSC CHSL",
+    "category": "job",
+    "level": "PUC",
+    "start_date": "2026-04-01",
+    "deadline": "2026-05-10",
+    "age_limit": "18-27",
+    "apply_link": "https://ssc.nic.in",
+    "jobs": ["Data Entry Operator"]
+  },
+  {
+    "name": "SSC MTS",
+    "category": "job",
+    "level": "PUC",
+    "start_date": "2026-04-20",
+    "deadline": "2026-05-25",
+    "age_limit": "18-25",
+    "apply_link": "https://ssc.nic.in",
+    "jobs": ["Multi Tasking Staff"]
+  },
+  {
+    "name": "State Police SI",
+    "category": "job",
+    "level": "Degree",
+    "start_date": "2026-05-10",
+    "deadline": "2026-06-15",
+    "age_limit": "21-30",
+    "apply_link": "https://ksp.karnataka.gov.in",
+    "jobs": ["Sub Inspector"]
+  },
+  {
+    "name": "State Police Constable",
+    "category": "job",
+    "level": "PUC",
+    "start_date": "2026-06-01",
+    "deadline": "2026-07-01",
+    "age_limit": "18-25",
+    "apply_link": "https://ksp.karnataka.gov.in",
+    "jobs": ["Police Constable"]
+  },
+
+  {
+    "name": "KCET",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-04-01",
+    "deadline": "2026-05-01",
+    "age_limit": "17-25",
+    "apply_link": "https://kea.kar.nic.in",
+    "jobs": ["Engineering Admission"]
+  },
+  {
+    "name": "COMEDK",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-03-15",
+    "deadline": "2026-04-15",
+    "age_limit": "17-25",
+    "apply_link": "https://comedk.org",
+    "jobs": ["Engineering Admission"]
+  },
+  {
+    "name": "NEET",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-02-15",
+    "deadline": "2026-03-15",
+    "age_limit": "17-25",
+    "apply_link": "https://nta.ac.in",
+    "jobs": ["Medical Admission"]
+  },
+  {
+    "name": "JEE Main",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2025-12-15",
+    "deadline": "2026-01-20",
+    "age_limit": "17-25",
+    "apply_link": "https://nta.ac.in",
+    "jobs": ["Engineering Admission"]
+  },
+  {
+    "name": "GATE",
+    "category": "study",
+    "level": "Degree",
+    "start_date": "2026-08-01",
+    "deadline": "2026-09-15",
+    "age_limit": "No Limit",
+    "apply_link": "https://gate.iitk.ac.in",
+    "jobs": ["M.Tech", "PSU Jobs"]
+  },
+  {
+    "name": "CAT",
+    "category": "study",
+    "level": "Degree",
+    "start_date": "2026-07-10",
+    "deadline": "2026-08-10",
+    "age_limit": "No Limit",
+    "apply_link": "https://iimcat.ac.in",
+    "jobs": ["MBA Admission"]
+  },
+  {
+    "name": "CLAT",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-03-20",
+    "deadline": "2026-04-20",
+    "age_limit": "17-25",
+    "apply_link": "https://consortiumofnlus.ac.in",
+    "jobs": ["Law Admission"]
+  },
+  {
+    "name": "BITSAT",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-04-10",
+    "deadline": "2026-05-15",
+    "age_limit": "17-25",
+    "apply_link": "https://bitsadmission.com",
+    "jobs": ["Engineering Admission"]
+  },
+  {
+    "name": "CUET",
+    "category": "study",
+    "level": "PUC",
+    "start_date": "2026-03-05",
+    "deadline": "2026-04-05",
+    "age_limit": "17-25",
+    "apply_link": "https://cuet.samarth.ac.in",
+    "jobs": ["UG Admission"]
+  },
+  {
+    "name": "UGC NET",
+    "category": "study",
+    "level": "Degree",
+    "start_date": "2026-09-01",
+    "deadline": "2026-10-01",
+    "age_limit": "No Limit",
+    "apply_link": "https://ugcnet.nta.nic.in",
+    "jobs": ["Lecturer", "PhD"]
+  }
+]
